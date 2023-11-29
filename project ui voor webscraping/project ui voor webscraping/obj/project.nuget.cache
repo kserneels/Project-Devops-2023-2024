@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "8FP8dqAlt4NstVgcKdPPeFzGjxzdIkEwogvbHt3xasotQbj45JzcCyIc/j0Gngm9mYtcmyWzYE/p2xxSzv27cA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kenzo\\source\\repos\\project ui voor webscraping\\project ui voor webscraping\\project ui voor webscraping.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kenzo\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
+    "C:\\Users\\kenzo\\.nuget\\packages\\htmlagilitypack\\1.11.54\\htmlagilitypack.1.11.54.nupkg.sha512",
+    "C:\\Users\\kenzo\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\kenzo\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\kenzo\\.nuget\\packages\\selenium.webdriver\\4.15.0\\selenium.webdriver.4.15.0.nupkg.sha512",
+    "C:\\Users\\kenzo\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

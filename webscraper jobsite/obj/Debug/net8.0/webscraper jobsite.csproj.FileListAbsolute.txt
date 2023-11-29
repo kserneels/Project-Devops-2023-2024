@@ -1,0 +1,27 @@
+C:\Users\kenzo\source\repos\webscraper jobsite\bin\Debug\net8.0\selenium-manager\linux\selenium-manager
+C:\Users\kenzo\source\repos\webscraper jobsite\bin\Debug\net8.0\selenium-manager\macos\selenium-manager
+C:\Users\kenzo\source\repos\webscraper jobsite\bin\Debug\net8.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\kenzo\source\repos\webscraper jobsite\bin\Debug\net8.0\webscraper jobsite.exe
+C:\Users\kenzo\source\repos\webscraper jobsite\bin\Debug\net8.0\webscraper jobsite.deps.json
+C:\Users\kenzo\source\repos\webscraper jobsite\bin\Debug\net8.0\webscraper jobsite.runtimeconfig.json
+C:\Users\kenzo\source\repos\webscraper jobsite\bin\Debug\net8.0\webscraper jobsite.dll
+C:\Users\kenzo\source\repos\webscraper jobsite\bin\Debug\net8.0\webscraper jobsite.pdb
+C:\Users\kenzo\source\repos\webscraper jobsite\bin\Debug\net8.0\HtmlAgilityPack.dll
+C:\Users\kenzo\source\repos\webscraper jobsite\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kenzo\source\repos\webscraper jobsite\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\kenzo\source\repos\webscraper jobsite\bin\Debug\net8.0\WebDriver.dll
+C:\Users\kenzo\source\repos\webscraper jobsite\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\kenzo\source\repos\webscraper jobsite\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kenzo\source\repos\webscraper jobsite\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\kenzo\source\repos\webscraper jobsite\obj\Debug\net8.0\webscraper jobsite.csproj.AssemblyReference.cache
+C:\Users\kenzo\source\repos\webscraper jobsite\obj\Debug\net8.0\webscraper jobsite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenzo\source\repos\webscraper jobsite\obj\Debug\net8.0\webscraper jobsite.AssemblyInfoInputs.cache
+C:\Users\kenzo\source\repos\webscraper jobsite\obj\Debug\net8.0\webscraper jobsite.AssemblyInfo.cs
+C:\Users\kenzo\source\repos\webscraper jobsite\obj\Debug\net8.0\webscraper jobsite.csproj.CoreCompileInputs.cache
+C:\Users\kenzo\source\repos\webscraper jobsite\obj\Debug\net8.0\webscraper jobsite.csproj.CopyComplete
+C:\Users\kenzo\source\repos\webscraper jobsite\obj\Debug\net8.0\webscraper jobsite.dll
+C:\Users\kenzo\source\repos\webscraper jobsite\obj\Debug\net8.0\refint\webscraper jobsite.dll
+C:\Users\kenzo\source\repos\webscraper jobsite\obj\Debug\net8.0\webscraper jobsite.pdb
+C:\Users\kenzo\source\repos\webscraper jobsite\obj\Debug\net8.0\webscraper jobsite.genruntimeconfig.cache
+C:\Users\kenzo\source\repos\webscraper jobsite\obj\Debug\net8.0\ref\webscraper jobsite.dll
+C:\Users\kenzo\source\repos\webscraper jobsite\bin\Debug\net8.0\CsvHelper.dll

@@ -1,0 +1,56 @@
+﻿<Window x:Class="YourNamespace.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="League of Legends Scraper" WindowState="Maximized">
+    <Grid Background="#272537">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <!-- This row takes the remaining space -->
+        </Grid.RowDefinitions>
+
+        <!-- Centered StackPanel for Title and Input Fields -->
+        <StackPanel Grid.Row="0" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,20,0,20">
+            <TextBlock Text="League of Legends Scraper" Foreground="White" FontSize="24" FontWeight="Bold" />
+            <StackPanel Orientation="Horizontal" Margin="0,10,0,10">
+                <TextBlock Text="Season:" Foreground="White" FontSize="16" Margin="0,0,10,0"/>
+                <TextBox x:Name="SeasonTextBox" Width="250" FontSize="16"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                <TextBlock Text="Patch Number:" Foreground="White" FontSize="16" Margin="0,0,10,0"/>
+                <TextBox x:Name="PatchTextBox" Width="250" FontSize="16"/>
+            </StackPanel>
+        </StackPanel>
+
+        <!-- Scrape Data Button -->
+        <Button Grid.Row="3" Content="Scrape Data" Click="ScrapeData_Click" Width="120" Margin="10">
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Setter Property="Background" Value="#FF2196F3" />
+                    <!-- Default background color -->
+                    <Setter Property="FontSize" Value="18" />
+                    <!-- Font size for the button -->
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" Value="#FF1565C0" />
+                            <!-- Hover background color -->
+                            <Setter Property="Cursor" Value="Hand" />
+                            <!-- Change cursor on hover -->
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+        </Button>
+        
+        
+
+        <!-- ResultText and ScrollViewer remain unchanged -->
+
+        <ScrollViewer Grid.Row="4" VerticalScrollBarVisibility="Auto">
+            <TextBlock x:Name="ResultText" Foreground="White" FontSize="14" Text="" Margin="10"/>
+        </ScrollViewer>
+    </Grid>
+</Window>
